@@ -1,2 +1,2 @@
-# Machining-learning-with-Python-Boot-Camp-
+# Machine-Learning-with-Python-Boot-Camp-
 Monrovia, Liberia
